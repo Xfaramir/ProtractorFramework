@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Home",
+    "pages": [
+      {
+        "Run": true,
+        "Page": "Home",
+        "Locale": "Home",
+        "URL": "https://beta.pga.com",
+        "EventUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "Play",
+    "pages": [
+      {
+        "Run": false,
+        "Page": "Play",
+        "Locale": "Landing",
+        "URL": "https://beta.pga.com/play",
+        "EventUrl": ""
+      },
+      {
+        "Run": false,
+        "Page": "Play/State",
+        "Locale": "State",
+        "URL": "https://beta.pga.com/play/AL",
+        "EventUrl": ""
+      },
+      {
+        "Run": false,
+        "Page": "Play/City",
+        "Locale": "City",
+        "URL": "https://beta.pga.com/play/AL/albertville",
+        "EventUrl": ""
+      },
+      {
+        "Run": false,
+        "Page": "Play/Facility",
+        "Locale": "Facility",
+        "URL": "https://beta.pga.com/play/AL/albertville/big-spring-lake-golf-club/0005760",
+        "EventUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "Learn",
+    "pages": [
+      {
+        "Run": false,
+        "Page": "Learn",
+        "Locale": "Learn",
+        "URL": "https://beta.pga.com/learn",
+        "EventUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "Events",
+    "pages": [
+      {
+        "Run": false,
+        "Page": "Events Landing",
+        "Locale": "Events",
+        "URL": "https://beta.pga.com/events",
+        "EventUrl": ""
+      },
+      {
+        "Run": false,
+        "Page": "PGA Tour",
+        "Locale": "Events",
+        "URL": "https://beta.pga.com/events/leaderboards/pga-tour",
+        "EventUrl": ""
+      },
+      {
+        "Run": false,
+        "Page": "LPGA",
+        "Locale": "Events",
+        "URL": "https://beta.pga.com/events/leaderboards/lpga-tour",
+        "EventUrl": ""
+      },
+      {
+        "Run": false,
+        "Page": "PGA CHAMPIONS",
+        "Locale": "Events",
+        "URL": "https://beta.pga.com/events/leaderboards/champions-tour",
+        "EventUrl": ""
+      },
+      {
+        "Run": false,
+        "Page": "Korn Ferry",
+        "Locale": "Events",
+        "URL": "https://beta.pga.com/events/leaderboards/korn-ferry-tour",
+        "EventUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "Stories",
+    "pages": [
+      {
+        "Run": false,
+        "Page": "Stories",
+        "Locale": "Landing",
+        "URL": "https://beta.pga.com/stories",
+        "EventUrl": ""
+      },
+      {
+        "Run": false,
+        "Page": "All Stories",
+        "Locale": "Stories",
+        "URL": "https://beta.pga.com/stories/all",
+        "EventUrl": ""
+      },
+      {
+        "Run": false,
+        "Page": "Stories Archive",
+        "Locale": "Stories",
+        "URL": "https://beta.pga.com/stories/archive",
+        "EventUrl": ""
+      }
+    ]
+  },
+  {
+    "name": "Shop",
+    "pages": [
+      {
+        "Run": false,
+        "Page": "Shop",
+        "Locale": "Home",
+        "URL": "https://beta.pga.com/shop",
+        "EventUrl": ""
+      }
+    ]
+  }
+]
