@@ -33,6 +33,10 @@ exports.config = {
     visualTest: 'src/specs/visualCrossBrowser.e23-spec.ts'
   },
 
+  // capabilities: {
+  //   browserName: 'chrome'
+  // },
+
   capabilities: {
     browserName: 'chrome',
 
@@ -166,7 +170,8 @@ exports.config = {
       });
     });
 
-    //if needed to create a video for the test run uncomment below and run direct connect true
+    //if needed to create a video for the test run uncomment below and run direct connect true to get video. 
+    
     // jasmine.getEnv().addReporter(
     //   new VideoReporter({
     //     baseDirectory: './e2e/reports/video-report',
